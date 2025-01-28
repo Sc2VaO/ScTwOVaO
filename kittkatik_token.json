@@ -1,0 +1,13 @@
+{
+  "name": "kittkatik",
+  "symbol": "KAT",
+  "description": "The token is dedicated to the best streamer, Katusha.",
+  "image": "https://raw.githubusercontent.com/Sc2VaO/ScTwOVaO/refs/heads/master/kittkatik.png",
+  "external_url": "https://www.twitch.tv/kittkatik",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
